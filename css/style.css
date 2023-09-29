@@ -25,7 +25,6 @@
     background-size: cover;
     padding-top: 55px;
     padding-bottom: 260px;
-    
     height: 80px;
  }
 
@@ -73,6 +72,30 @@
  main div.top-main img {
     margin-top: 40px;
     border-radius: 200px 200px 200px 200px;
+ }
+
+ main div.middle-main {
+    margin-top: 50px;
+    background-color: #e22d0e;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+ }
+
+ main div.middle-main h2 {
+    font-size:3rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+ }
+
+ main div.middle-main h3 {
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 30px;
+ }
+
+ main div.middle-main p {
+    font-style: oblique;
  }
 
  
