@@ -4,6 +4,10 @@
     line-height: 1.5;
  }
 
+
+
+
+
  header {
     width: 500px;
     margin-inline: auto;
@@ -52,6 +56,7 @@
 
 
 
+
  main {
     width: 500px;
     margin-inline: auto;
@@ -73,6 +78,8 @@
     margin-top: 40px;
     border-radius: 200px 200px 200px 200px;
  }
+
+
 
  main div.middle-main {
     margin-top: 50px;
@@ -98,6 +105,28 @@
     font-style: oblique;
  }
 
+
+
+ main div.bottom-main div {
+    margin: 20px;
+    margin-top: 60px;
+    border: 1px solid #e3dcdc;
+    border-radius: 20px 20px 20px 20px;
+    padding-bottom: 35px;
+    
+ }
+
+ main div.bottom-main img {
+    width: 100%;
+ }
+
+ main div.bottom-main h2 {
+    font-size: larger;
+    font-weight: bold;
+    color: #25a2c3;
+    margin-top: 10px;
+ }
+ 
  
 
 
