@@ -1,0 +1,51 @@
+/* Your styles here */
+ body {
+    font-family: 'Montserrat', sans-serif;
+ }
+
+ header {
+    width: 500px;
+    margin-inline: auto;
+    line-height: 1.5;
+ }
+ 
+ header img {
+    width: 200px;
+ }
+
+ header div.top-header {
+    background-color: black;
+    padding-block: 50px;
+    text-align: center;
+ }
+
+ header div.foot-header {
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    padding-top: 55px;
+    padding-bottom: 260px;
+    text-align: center;
+    height: 80px;
+ }
+
+ .foot-header h1 {
+    font-size: xx-large;
+    font-weight: bold;
+    color: #25a2c3;
+ }
+
+ .foot-header p {
+    padding-top: 50px;
+ }
+
+ .foot-header button {
+    margin-top: 40px;
+    padding: 10px;
+    padding-inline: 40px;
+    background-color: #f04c2f;
+    border-style: hidden;
+    color: white;
+ }
+
+
+
