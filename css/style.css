@@ -126,8 +126,38 @@
     color: #25a2c3;
     margin-top: 10px;
  }
- 
- 
+
+
+
+ footer {
+    width: 500px;
+    margin-inline: auto;
+    text-align: center;
+    background-color: #25a2c3;
+    margin-top: 45px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+ }
+
+ footer h2 {
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+ }
+
+ footer p,a  {
+    color: white;    
+ }
+
+ footer div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+
+ footer hr {
+    width: 300px;
+ }
+
 
 
 
