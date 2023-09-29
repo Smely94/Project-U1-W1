@@ -1,14 +1,15 @@
 /* Your styles here */
  body {
     font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
  }
 
  header {
     width: 500px;
     margin-inline: auto;
-    line-height: 1.5;
+    text-align: center;
  }
- 
+
  header img {
     width: 200px;
  }
@@ -24,7 +25,7 @@
     background-size: cover;
     padding-top: 55px;
     padding-bottom: 260px;
-    text-align: center;
+    
     height: 80px;
  }
 
@@ -46,6 +47,34 @@
     border-style: hidden;
     color: white;
  }
+
+
+
+
+
+
+ main {
+    width: 500px;
+    margin-inline: auto;
+    text-align: center;
+ }
+
+ main div.top-main h2{
+    font-size: larger;
+    font-weight: bold;
+    color: #25a2c3;
+    margin-top: 40px;
+ }
+
+ main div.top-main p {
+    margin-top: 20px;
+ }
+
+ main div.top-main img {
+    margin-top: 40px;
+ }
+
+
 
 
 
